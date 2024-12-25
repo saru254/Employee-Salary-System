@@ -43,8 +43,8 @@ This system is designed to:
 ## Example Output
 
 ```
-Alice's Bonus: $8,000.00
-Bob's Bonus: $3,000.00
+Peter's Bonus: $8,000.00
+Vele's Bonus: $3,000.00
 ```
 
 ## Contributing
